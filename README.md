@@ -1,6 +1,6 @@
 # To-Do List Project
 
-This is a basic to-do list where you can change priority, edit and delete tasks.
+This is a basic to-do list where you can change priority, edit and delete tasks. This project was created using Vanilla JS.
 
 
 ### Author:
