@@ -5,7 +5,7 @@ This is a basic to-do list where you can change priority, edit and delete tasks.
 
 ### Author:
 
-**[Bernardo Garza Landa](https://bernardogarza.me/)** - bernardo.g.landa@gmail.com
+**[Bernardo Garza Landa](https://bernardogarza.me/)** - bernardo.g.landa@gmail.com - [Portfolio](https://bernardogarza.me) - [LinkedIn](https://www.linkedin.com/in/bernardo-g-landa/)
 
 Kalib Hackin - [naguihw@gmail.com](naguihw@gmail.com)
 
